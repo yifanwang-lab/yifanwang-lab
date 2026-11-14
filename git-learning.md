@@ -19,3 +19,9 @@
 - Learn git commit
 - Learn git push
 - Learn git pull
+
+## Git Synchronization
+
+- Edit files on GitHub
+- Pull changes to Ubuntu
+- Keep local and remote repositories synchronized
