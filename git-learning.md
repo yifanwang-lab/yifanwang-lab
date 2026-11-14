@@ -25,3 +25,8 @@
 - Edit files on GitHub
 - Pull changes to Ubuntu
 - Keep local and remote repositories synchronized
+
+## VS Code Practice
+
+- Edit and save files in VS Code
+- Review changes in Source Control
