@@ -30,3 +30,8 @@
 
 - Edit and save files in VS Code
 - Review changes in Source Control
+
+## Windows Practice
+
+- Edit and save files on Windows
+- Keep separate working directories on Windows and Ubuntu
